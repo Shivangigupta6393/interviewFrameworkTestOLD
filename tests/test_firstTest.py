@@ -5,8 +5,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
-from EPAMAutomation.pom.HomePage import HomePage
-from EPAMAutomation.utilities.Baseclass import BaseClass
+from interviewFrameworkTest.pom.HomePage import HomePage
+from interviewFrameworkTest.utilities.Baseclass import BaseClass
 
 
 @pytest.mark.usefixtures("setup")
