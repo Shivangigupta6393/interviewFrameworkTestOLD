@@ -1,8 +1,8 @@
 from selenium.webdriver.common.alert import Alert
 from selenium.webdriver.common.by import By
 
-from WikipediaAutomation.pom.HttpPostPage import HttpPostPage
-from WikipediaAutomation.pom.HttpsPostPage import HttpsPostPage
+from EPAMAutomation.pom.HttpPostPage import HttpPostPage
+from EPAMAutomation.pom.HttpsPostPage import HttpsPostPage
 
 
 class HomePage():
